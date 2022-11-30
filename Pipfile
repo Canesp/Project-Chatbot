@@ -7,6 +7,8 @@ name = "pypi"
 numpy = "*"
 sentence-transformers = "*"
 scikit-learn = "*"
+fastapi = "*"
+uvicorn = "*"
 
 [dev-packages]
 ipykernel = "*"
